@@ -1,0 +1,5 @@
+database = 'your database'
+user = 'your username'
+password = 'your password'
+host = 'your localhost'
+port = 5432
